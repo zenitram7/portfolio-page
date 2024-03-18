@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-page/static/css/main.6b436559.css",
-    "main.js": "/portfolio-page/static/js/main.21cc2617.js",
+    "main.js": "/portfolio-page/static/js/main.fc935f5a.js",
     "static/media/fedUp.png": "/portfolio-page/static/media/fedUp.0fb10de5c7d4e610978f.png",
     "static/media/taco-shop.png": "/portfolio-page/static/media/taco-shop.78628abf2e7eeaa70472.png",
     "static/media/construction.png": "/portfolio-page/static/media/construction.42245b855ce4093ca204.png",
@@ -13,10 +13,10 @@
     "static/media/alexander-andrews-vGCErDhrc3E-unsplash.jpg": "/portfolio-page/static/media/alexander-andrews-vGCErDhrc3E-unsplash.d5ebcf3d34e8197b576d.jpg",
     "index.html": "/portfolio-page/index.html",
     "main.6b436559.css.map": "/portfolio-page/static/css/main.6b436559.css.map",
-    "main.21cc2617.js.map": "/portfolio-page/static/js/main.21cc2617.js.map"
+    "main.fc935f5a.js.map": "/portfolio-page/static/js/main.fc935f5a.js.map"
   },
   "entrypoints": [
     "static/css/main.6b436559.css",
-    "static/js/main.21cc2617.js"
+    "static/js/main.fc935f5a.js"
   ]
 }
