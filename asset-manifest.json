@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-page/static/css/main.0edcd6d9.css",
-    "main.js": "/portfolio-page/static/js/main.3fdd215a.js",
-    "static/media/fedUp.png": "/portfolio-page/static/media/fedUp.0fb10de5c7d4e610978f.png",
-    "static/media/taco-shop.png": "/portfolio-page/static/media/taco-shop.78628abf2e7eeaa70472.png",
-    "static/media/construction.png": "/portfolio-page/static/media/construction.42245b855ce4093ca204.png",
-    "static/media/promotionalEmail.png": "/portfolio-page/static/media/promotionalEmail.d48030a95f0fd8b40aa7.png",
-    "static/media/coffeeShop.png": "/portfolio-page/static/media/coffeeShop.7503154433ab4838d99e.png",
-    "static/media/luisM.png": "/portfolio-page/static/media/luisM.b5d1cb2162327760117a.png",
-    "static/media/everblack.png": "/portfolio-page/static/media/everblack.fe22b4b1ca2dbc829401.png",
-    "static/media/transactionalEmail.png": "/portfolio-page/static/media/transactionalEmail.08773bdaa5f7325676f1.png",
-    "static/media/alexander-andrews-vGCErDhrc3E-unsplash.jpg": "/portfolio-page/static/media/alexander-andrews-vGCErDhrc3E-unsplash.d5ebcf3d34e8197b576d.jpg",
-    "index.html": "/portfolio-page/index.html",
-    "main.0edcd6d9.css.map": "/portfolio-page/static/css/main.0edcd6d9.css.map",
-    "main.3fdd215a.js.map": "/portfolio-page/static/js/main.3fdd215a.js.map"
+    "main.css": "/static/css/main.e269b306.css",
+    "main.js": "/static/js/main.28c17f3b.js",
+    "static/media/fedUp.png": "/static/media/fedUp.0fb10de5c7d4e610978f.png",
+    "static/media/taco-shop.png": "/static/media/taco-shop.78628abf2e7eeaa70472.png",
+    "static/media/construction.png": "/static/media/construction.42245b855ce4093ca204.png",
+    "static/media/promotionalEmail.png": "/static/media/promotionalEmail.d48030a95f0fd8b40aa7.png",
+    "static/media/coffeeShop.png": "/static/media/coffeeShop.7503154433ab4838d99e.png",
+    "static/media/luisM.png": "/static/media/luisM.b5d1cb2162327760117a.png",
+    "static/media/everblack.png": "/static/media/everblack.fe22b4b1ca2dbc829401.png",
+    "static/media/transactionalEmail.png": "/static/media/transactionalEmail.08773bdaa5f7325676f1.png",
+    "static/media/alexander-andrews-vGCErDhrc3E-unsplash.jpg": "/static/media/alexander-andrews-vGCErDhrc3E-unsplash.d5ebcf3d34e8197b576d.jpg",
+    "index.html": "/index.html",
+    "main.e269b306.css.map": "/static/css/main.e269b306.css.map",
+    "main.28c17f3b.js.map": "/static/js/main.28c17f3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0edcd6d9.css",
-    "static/js/main.3fdd215a.js"
+    "static/css/main.e269b306.css",
+    "static/js/main.28c17f3b.js"
   ]
 }
